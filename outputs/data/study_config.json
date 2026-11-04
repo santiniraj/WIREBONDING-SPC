@@ -1,0 +1,35 @@
+{
+  "selection_rule": "Largest usable Package + Wire Type + Wire Diameter group; all associated anonymized wire-bond machines retained.",
+  "analysis_assumption": "Product identifiers are excluded from report-facing outputs; machine labels are anonymized one-to-one.",
+  "selected_package": "Package A",
+  "selected_wire_type": "Wire Type A",
+  "selected_wire_diameter": "Diameter Group A",
+  "study_period": "Anonymized historical production period",
+  "machine_count": 17,
+  "machines": [
+    "WB01",
+    "WB02",
+    "WB03",
+    "WB04",
+    "WB05",
+    "WB06",
+    "WB07",
+    "WB08",
+    "WB09",
+    "WB10",
+    "WB11",
+    "WB12",
+    "WB13",
+    "WB14",
+    "WB15",
+    "WB16",
+    "WB17"
+  ],
+  "events_by_ctq": {
+    "BS": 1387,
+    "SP": 1356,
+    "WP": 603
+  },
+  "total_events": 3346,
+  "confidentiality_note": "Company-sensitive equipment, product, lot, specification and calendar-date identifiers are anonymized or omitted."
+}

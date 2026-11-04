@@ -1,0 +1,9 @@
+FEATURE_GROUP,EXAMPLES
+Current statistics,"AVG, SIGMA, RANGE, CV"
+SPC position,"STANDARDIZED_DEVIATION, RANGE_RATIO"
+Capability,CAPABILITY_VALUE
+Nelson evidence,"NELSON_RULE_COUNT, N1–N8"
+Break-mode evidence,MODE_A_COUNT–MODE_E_COUNT
+Lag / rolling history,"Lagged Z, rolling mean/std, moving average"
+Previous state history,Previous Warning/Abnormal/Nelson rates
+Categorical,"Anonymized Machine ID, CTQ"

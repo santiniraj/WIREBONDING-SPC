@@ -1,0 +1,7 @@
+{
+  "train_cutoff": "2020-12-15T08:07:20",
+  "validation_cutoff": "2021-01-29T22:34:32",
+  "forecast_horizon_events": 5,
+  "split_method": "Chronological global split with +5 target-boundary purging",
+  "spc_reference_policy": "SPC limits and capability use training-period history only"
+}

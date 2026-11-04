@@ -1,0 +1,24 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "1 - Run complete research pipeline",
+      "type": "shell",
+      "command": "python run_all.py",
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "label": "2 - Start Streamlit dashboard",
+      "type": "shell",
+      "command": "python -m streamlit run dashboard/app.py",
+      "problemMatcher": []
+    },
+    {
+      "label": "3 - Run smoke tests",
+      "type": "shell",
+      "command": "pytest -q",
+      "problemMatcher": []
+    }
+  ]
+}

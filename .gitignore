@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+.vscode/settings.json
+.streamlit/secrets.toml
+
+# Never add confidential source files if they are later used locally.
+data/SPC_Dataset.xlsx
+private_outputs/
+private_overrides.py
+*PRIVATE*

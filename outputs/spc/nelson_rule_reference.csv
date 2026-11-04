@@ -1,0 +1,9 @@
+RULE,DEFINITION,SIMPLE_MEANING
+N1,One point beyond 3 sigma,Strong unusual point; investigate a special cause.
+N2,Nine points on the same side of the center line,Possible sustained process shift.
+N3,Six points continuously increasing or decreasing,Possible continuous process drift.
+N4,Fourteen points alternating up and down,Possible oscillation or alternating influence.
+N5,Two of three points beyond 2 sigma on the same side,Possible moderate process shift.
+N6,Four of five points beyond 1 sigma on the same side,Possible small persistent process shift.
+N7,Fifteen points within 1 sigma,Variation is unusually small; check stratification or measurement behaviour.
+N8,Eight points outside 1 sigma with points on both sides,Possible mixture or other non-random behaviour.
